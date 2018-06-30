@@ -4,7 +4,7 @@ A = [int(x) for x in input().split(' ')]
 B = [int(x) for x in input().split(' ')]
 
 A = sorted(A)
-B = sorted(B)
+B = sorted(B, reverse = True)
 
 sub_A = []
 sub_B = []
