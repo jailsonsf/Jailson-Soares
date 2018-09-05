@@ -30,5 +30,4 @@ else:
 
     for x in inters:
 
-        impressão ( x )
-Detalhes
+        print( x )
